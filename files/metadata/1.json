@@ -1,0 +1,15 @@
+{
+    "name": "Astronaut Dragon",
+    "description": "Astronaut Dragon",
+    "image": "ipfs://QmdbE44wCaKVZhZk3jDnphUunLmv4nmq1CaTVXiqgz3RAs/astronaut_dragon.jpg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Planets"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Blue"
+        }
+    ]
+}

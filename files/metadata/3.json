@@ -1,0 +1,15 @@
+{
+    "name": "Dragon Ball",
+    "description": "Dragon ball",
+    "image": "ipfs://QmdbE44wCaKVZhZk3jDnphUunLmv4nmq1CaTVXiqgz3RAs/ball.jpg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Stars"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Orange"
+        }
+    ]
+}
